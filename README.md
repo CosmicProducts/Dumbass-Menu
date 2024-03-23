@@ -1,2 +1,4 @@
 # Dumbass-Menu
-A gorilla tag mod menu
+Mods:
+1. SpeedBoost
+2. TPGun
